@@ -22,5 +22,5 @@
     a. 平时阅读哪些技术类书籍 
     b. 当遇到技术问题时，常去哪些网站寻找帮助
 
-1. 阅读过的书籍包括《python自然语言处理》《机器学习实战》《Deep Learning》《算法笔记》《统计学系方法》《机器学习》《数字图像处理》等，大部分都是偏机器学习类等数据。
+1. 阅读过的书籍包括《python自然语言处理》《机器学习实战》《Deep Learning》《算法笔记》《统计学系方法》《机器学习》《数字图像处理》等，大部分都是偏机器学习类等书籍。
 2. 解决问题的网站一般是`google.com.hk` , `v2ex.com` , `stackoverflow.com` , `scholar.google.com` , `segmentfault.com` , `quora.com` , `zhihu.com` , `jianshu.com` , `csdn.com`等，当然也包括向学术界的老师发邮件等方式解决问题。
